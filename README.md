@@ -1,1 +1,127 @@
-IyBKb2IgU2NyYXBlciDihpIgR29vZ2xlIFNoZWV0cwoKU2NyYXBlcyBMaW5rZWRJbiBmb3Igc29mdHdhcmUvQUkvYXV0b21hdGlvbiBkZXZlbG9wZXIgam9icyBpbiAqKkJhbmdhbG9yZSoqIGFuZCAqKkh5ZGVyYWJhZCoqIHRhcmdldGluZyAqKjEtMiB5ZWFycyBvZiBleHBlcmllbmNlKiosIHRoZW4gd3JpdGVzIHJlc3VsdHMgaW50byBhIG5ldyBHb29nbGUgU2hlZXQgd2l0aCBkaXJlY3QgYXBwbHkgbGlua3MuCgojIyBRdWljayBTdGFydAoKYGBgYmFzaApjaG1vZCAreCBzY3JhcGVfam9icy5zaCAgICMgZmlyc3QgdGltZSBvbmx5Ci4vc2NyYXBlX2pvYnMuc2gKYGBgCgpUaGF0J3MgaXQuIFRoZSBzY3JpcHQgd2lsbDoKMS4gTG9hZCB5b3VyIGV4aXN0aW5nIEdvb2dsZSBPQXV0aCBjcmVkZW50aWFscyAobm8gYnJvd3NlciBsb2dpbiBuZWVkZWQpCjIuIFNlYXJjaCBMaW5rZWRJbiBmb3IgfjYga2V5d29yZCtsb2NhdGlvbiBjb21iaW5hdGlvbnMKMy4gRmV0Y2ggZnVsbCBkZXRhaWxzIGZvciBlYWNoIHVuaXF1ZSBqb2IgcG9zdGluZwo0LiBDcmVhdGUgYSBuZXcgR29vZ2xlIFNoZWV0IGFuZCBwcmludCBpdHMgVVJMCgpFeHBlY3RlZCBvdXRwdXQ6CmBgYAo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CkpvYiBTY3JhcGVyIOKGkiBHb29nbGUgU2hlZXRzCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCksxLzRdIExvYWRpbmcgR29vZ2xlIE9BdXRoIGNyZWRlbnRpYWxzLi4uCiAgQ3JlZGVudGlhbHMgcmVhZHkuCgpbMi80XSBTZWFyY2hpbmcgTGlua2VkSW4gZm9yIGpvYnMuLi4KICBTZWFyY2hpbmc6IHNvZnR3YXJlIGRldmVsb3BlciAvIEJhbmdhbG9yZSwgS2FybmF0YWthCiAgICBGb3VuZCA3NSBqb2IgSURzICg3NSBuZXcsIDAgZHVwbGljYXRlcykKICAuLi4KICBUb3RhbCB1bmlxdWUgam9iIElEczogMTQzCgpbMy80XSBGZXRjaGluZyBqb2IgZGV0YWlscyAodGhpcyB0YWtlcyB+MjE1cykuLi4KICBQcm9ncmVzczogMTAvMTQzIGpvYnMgZmV0Y2hlZC4uLgogIC4uLgogIEZldGNoZWQ6IDEzMSBqb2JzICB8ICBGYWlsZWQvc2tpcHBlZDogMTIKCls0LzRdIFdyaXRpbmcgMTMxIGpvYnMgdG8gR29vZ2xlIFNoZWV0cy4uLgoKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQnil4MgU2NyYXBlZCAxMzEgam9icyAoYWZ0ZXIgZGVkdXBsaWNhdGlvbikK4peDIEdvb2dsZSBTaGVldCBjcmVhdGVkOiBodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9zcHJlYWRzaGVldHMvZC8uLi4KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQpgYGAKCiMjIFNoZWV0IENvbHVtbnMKCnwgQ29sdW1uIHwgRGVzY3JpcHRpb24gfAp8LS0tLS0tLS18LS0tLS0tLS0tLS0tLXwKfCBBIOKAlCBDb21wYW55IHwgRW1wbG95ZXIgbmFtZSB8CnwgQiDihJQgSm9iIFRpdGxlIHwgUG9zaXRpb24gdGl0bGUgfAp8IEMg4oSUIExvY2F0aW9uIHwgQ2l0eSAoQmFuZ2Fsb3JlIC8gSHlkZXJhYmFkKSB8CnwgRCDihJQgU2FsYXJ5IHwgSWYgbGlzdGVkIChvZnRlbiBibGFuayBmb3IgSW5kaWEgcG9zdGluZ3MpIHwKfCBFIOKElCBFeHBlcmllbmNlIFJlcXVpcmVkIHwgRXh0cmFjdGVkIGZyb20gZGVzY3JpcHRpb24gKGUuZy4gIjEtMiB5ZWFycyIpIHwKfCBGIOKElCBLZXkgU2tpbGxzIHwgVXAgdG8gMTAgZGV0ZWN0ZWQgc2tpbGxzIChQeXRob24sIFJlYWN0LCBBV1MsIGV0Yy4pIHwKfCBHIOKElCBBcHBseSBMaW5rIHwgQ2xpY2thYmxlIGA9SFZQRVJMSU5LKClgIGZvcm11bGEg4oaSIG9wZW5zIGpvYiBwYWdlIHwKfCBIIOKElCBKb2IgRGVzY3JpcHRpb24gKHByZXZpZXcpIHwgRmlyc3QgNTAwIGNoYXJhY3RlcnMgb2YgZnVsbCBkZXNjcmlwdGlvbiB8CnwgSSDihJQgRGF0ZSBTY3JhcGVkIHwgVGltZXN0YW1wIG9mIHdoZW4gdGhlIHNjcmlwdCByYW4gfAoKIyMgQ3VzdG9taXphdGlvbgoKIyMjIENoYW5nZSBzZWFyY2gga2V5d29yZHMgb3IgY2l0aWVzCgpFZGl0IHRoZSBgU0VBUkNIX1FVRVJJRVNgIGxpc3QgbmVhciB0aGUgdG9wIG9mIGBqb2Jfc2NyYXBlci5weWA6CgpgYGBweXRob24KU0VBUkNIX1FVRVJJRVMgPSBbCiAgICAoInNvZnR3YXJlIGRldmVsb3BlciIsICAgICAgICAiQmFuZ2Fsb3JlLCBLYXJuYXRha2EiKSwKICAgICgiZGF0YSBlbmdpbmVlciIsICAgICAgICAgICAgICJDaGVubmFpLCBUYW1pbCBOYWR1IiksICAgIyBhZGQgYSBuZXcgY2l0eS9yb2xlCl0KYGBgCgojIyMgU2NyYXBlIG1vcmUgKG9yIGZld2VyKSBwYWdlcyBwZXIgcXVlcnkKCkNoYW5nZSBgUEFHRVNfUEVSX1FVRVJZYCAoZWFjaCBwYWdlID0gMjUgcmVzdWx0cyk6CgpgYGBweXRob24KUEFHRVNQRVJRVUVSWSA9IDUgICAjIHVwIHRvIDEyNSBqb2JzIHBlciBxdWVyeQpgYGAKCktlZXAgdG90YWwgam9icyB1bmRlciB+MTUwIHBlciBydW4gdG8gYXZvaWQgTGlua2VkSW4gcmF0ZS1saW1pdHMuCgojIyMgQ2hhbmdlIHRoZSBleHBlcmllbmNlIGZpbHRlcgoKYGZfRT0yLDNgIGluIHRoZSBzZWFyY2ggVVJMIG1hcHMgdG8gTGlua2VkSW4ncyBleHBlcmllbmNlIGxldmVsczoKLSBgMWAgPSBJbnRlcm5zaGlwCi0gYDJgID0gRW50cnkgbGV2ZWwKLSBgM2AgPSBBc3NvY2lhdGUKLSBgNGAgPSBNaWQtU2VuaW9yIGxldmVsCgpFZGl0IGBmZXRjaF9qb2JfaWRzKClgIGluIGBqb2Jfc2NyYXBlci5weWAgdG8gY2hhbmdlIG9yIGNvbWJpbmUgbGV2ZWxzLgoKIyMgUmUtYXV0aGVudGljYXRpb24KClRoZSBzY3JpcHQgcmV1c2VzIHRoZSBPQXV0aCB0b2tlbnMgZnJvbSB0aGUgR0RyaXZlIE1DUCBzZXR1cC4gSWYgeW91IHNlZSBhbiBhdXRoIGVycm9yOgoKMS4gQ2hlY2sgdGhhdCB0aGVzZSBmaWxlcyBleGlzdCBhbmQgYXJlIHZhbGlkIEpTT046CiAgIC0gYC9ob21lL3BhcnZlei8uY29uZmlnL2dkcml2ZS1tY3AvLmdkcml2ZS1zZXJ2ZXItY3JlZGVudGlhbHMuanNvbmAKICAgLSBgL2hvbWUvcGFydmV6Ly5jb25maWcvZ2RyaXZlLW1jcC9nY3Atb2F1dGgua2V5cy5qc29uYAoKMi4gSWYgdGhlIGByZWZyZXNoX3Rva2VuYCBoYXMgYmVlbiByZXZva2VkIChyYXJlKSwgcmUtcnVuIHRoZSBvcmlnaW5hbCBHRHJpdmUgT0F1dGggc2V0dXA6CiAgIGBgYGJhc2gKICAgIyBGcm9tIHRoZSBnZHJpdmUtbWNwIHNlcnZlciBkaXJlY3RvcnkKICAgbnB4IEBtb2RlbGNvbnRleHRwcm90b2NvbC9zZXJ2ZXItZ2RyaXZlIGF1dGgKICAgYGBgCgojIyBIb3cgSXQgV29ya3MKCmBgYApzY3JhcGVfam9icy5zaAogICAgwpTigJTigJQgdXZ4IHJ1biBqb2Jfc2NyYXBlci5weSAgICAgICAgICAjIGF1dG8taW5zdGFsbHMgZGVwcyB2aWEgUEVQIDcyMwogICAgICAgICAgICDilJzigJTigJQgbG9hZF9jcmVkZW50aWFscygpICAgICAgIyByZXVzZSBHRHJpdmUgTUNQIE9BdXRoIHRva2VucwogICAgICAgICAgICDilJzigJTigJQgZmV0Y2hfam9iX2lkcygpICAgICAgICAgIyBMaW5rZWRJbiBndWVzdCBzZWFyY2ggQVBJIOKGkiBqb2IgSURzCiAgICAgICAgICAgIOKUnOKAlOKAlCBmZXRjaF9qb2JfZGV0YWlsKCkgICAgICAjIExpbmtlZEluIGpvYiBkZXRhaWwgQVBJIOKGkiBmdWxsIEhUTUwKICAgICAgICAgICAg4pSU4oCU4oCUIGNyZWF0ZV9zaGVldF9hbmRfd3JpdGUoKSAgIyBHb29nbGUgU2hlZXRzIEFQSSDihpIgbmV3IHNwcmVhZHNoZWV0CmBgYAoKTGlua2VkSW4ncyBndWVzdCBBUEkgKGAvam9icy1ndWVzdC9gKSBpcyBwdWJsaWNseSBhY2Nlc3NpYmxlIHdpdGhvdXQgbG9naW4uIFRoZSBzY3JpcHQgcGFyc2VzIHRoZSByZXR1cm5lZCBIVE1MIHdpdGggQmVhdXRpZnVsU291cCB0byBleHRyYWN0IHN0cnVjdHVyZWQgZGF0YS4KCiMjIERlcGVuZGVuY2llcwoKTWFuYWdlZCBhdXRvbWF0aWNhbGx5IGJ5IGB1dnhgIHZpYSBQRVAgNzIzIGlubGluZSBtZXRhZGF0YSBpbiBgam9iX3NjcmFwZXIucHlgOgotIGByZXF1ZXN0c2Ag4oSUIEhUVFAgY2xpZW50Ci0gYGJlYXV0aWZ1bHNvdXA0YCDigJQgSFRNTCBwYXJzaW5nCi0gYGdvb2dsZS1hcGktcHl0aG9uLWNsaWVudGAg4oSUIFNoZWV0cyBBUEkKLSBgZ29vZ2xlLWF1dGhgIOKElCBPQXV0aCBjcmVkZW50aWFsIG1hbmFnZW1lbnQKLSBgZ29vZ2xlLWF1dGgtb2F1dGhsaWJgIOKElCBUb2tlbiByZWZyZXNoCg==
+# Job Scraper → Google Sheets
+
+Scrapes LinkedIn for software/AI/automation developer jobs in **Bangalore** and **Hyderabad** targeting **1-2 years of experience**, then writes results into a new Google Sheet with direct apply links.
+
+## Quick Start
+
+```bash
+chmod +x scrape_jobs.sh   # first time only
+./scrape_jobs.sh
+```
+
+That's it. The script will:
+1. Load your existing Google OAuth credentials (no browser login needed)
+2. Search LinkedIn for ~6 keyword+location combinations
+3. Fetch full details for each unique job posting
+4. Create a new Google Sheet and print its URL
+
+Expected output:
+```
+======================================================================
+Job Scraper → Google Sheets
+======================================================================
+
+[1/4] Loading Google OAuth credentials...
+  Credentials ready.
+
+[2/4] Searching LinkedIn for jobs...
+  Searching: software developer / Bangalore, Karnataka
+    Found 75 job IDs (75 new, 0 duplicates)
+  ...
+  Total unique job IDs: 143
+
+[3/4] Fetching job details (this takes ~215s)...
+  Progress: 10/143 jobs fetched...
+  ...
+  Fetched: 131 jobs  |  Failed/skipped: 12
+
+[4/4] Writing 131 jobs to Google Sheets...
+
+======================================================================
+✓ Scraped 131 jobs (after deduplication)
+✓ Google Sheet created: https://docs.google.com/spreadsheets/d/...
+======================================================================
+```
+
+## Sheet Columns
+
+| Column | Description |
+|--------|-------------|
+| A — Company | Employer name |
+| B — Job Title | Position title |
+| C — Location | City (Bangalore / Hyderabad) |
+| D — Salary | If listed (often blank for India postings) |
+| E — Experience Required | Extracted from description (e.g. "1-2 years") |
+| F — Key Skills | Up to 10 detected skills (Python, React, AWS, etc.) |
+| G — Apply Link | Clickable `=HYPERLINK()` formula → opens job page |
+| H — Job Description (preview) | First 500 characters of full description |
+| I — Date Scraped | Timestamp of when the script ran |
+
+## Customization
+
+### Change search keywords or cities
+
+Edit the `SEARCH_QUERIES` list near the top of `job_scraper.py`:
+
+```python
+SEARCH_QUERIES = [
+    ("software developer",        "Bangalore, Karnataka"),
+    ("data engineer",             "Chennai, Tamil Nadu"),   # add a new city/role
+]
+```
+
+### Scrape more (or fewer) pages per query
+
+Change `PAGES_PER_QUERY` (each page = 25 results):
+
+```python
+PAGES_PER_QUERY = 5   # up to 125 jobs per query
+```
+
+Keep total jobs under ~150 per run to avoid LinkedIn rate-limits.
+
+### Change the experience filter
+
+`f_E=2,3` in the search URL maps to LinkedIn's experience levels:
+- `1` = Internship
+- `2` = Entry level
+- `3` = Associate
+- `4` = Mid-Senior level
+
+Edit `fetch_job_ids()` in `job_scraper.py` to change or combine levels.
+
+## Re-authentication
+
+The script reuses the OAuth tokens from the GDrive MCP setup. If you see an auth error:
+
+1. Check that these files exist and are valid JSON:
+   - `/home/parvez/.config/gdrive-mcp/.gdrive-server-credentials.json`
+   - `/home/parvez/.config/gdrive-mcp/gcp-oauth.keys.json`
+
+2. If the `refresh_token` has been revoked (rare), re-run the original GDrive OAuth setup:
+   ```bash
+   # From the gdrive-mcp server directory
+   npx @modelcontextprotocol/server-gdrive auth
+   ```
+
+## How It Works
+
+```
+scrape_jobs.sh
+    └── uv run job_scraper.py          # auto-installs deps via PEP 723
+            ├── load_credentials()      # reuse GDrive MCP OAuth tokens
+            ├── fetch_job_ids()         # LinkedIn guest search API → job IDs
+            ├── fetch_job_detail()      # LinkedIn job detail API → full HTML
+            └── create_sheet_and_write()  # Google Sheets API → new spreadsheet
+```
+
+LinkedIn's guest API (`/jobs-guest/`) is publicly accessible without login. The script parses the returned HTML with BeautifulSoup to extract structured data.
+
+## Dependencies
+
+Managed automatically by `uv` via PEP 723 inline metadata in `job_scraper.py`:
+- `requests` — HTTP client
+- `beautifulsoup4` — HTML parsing
+- `google-api-python-client` — Sheets API
+- `google-auth` — OAuth credential management
+- `google-auth-oauthlib` — Token refresh

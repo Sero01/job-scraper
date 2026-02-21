@@ -1,1 +1,7 @@
-IyEvdXNyL2Jpbi9lbnYgYmFzaApzZXQgLWV1byBwaXBlZmFpbAoKU0NSSVBUX0RJUj0iJChjZCAnJChkaXJuYW1lICIke0JBU0hfU09VUkNFWzBdfSIpJyAmJiBwd2QpIgoKZWNobyAiU3RhcnRpbmcgam9iIHNjcmFwZXIuLi4iCnV2IHJ1biAiJFNDUklQVF9ESVIvam9iX3NjcmFwZXIucHkiCg==
+#!/usr/bin/env bash
+set -euo pipefail
+
+SCRIPT_DIR="$(cd '$(dirname "${BASH_SOURCE[0]}")' && pwd)"
+
+echo "Starting job scraper..."
+uv run "$SCRIPT_DIR/job_scraper.py"

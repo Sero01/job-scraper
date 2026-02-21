@@ -1,1 +1,7 @@
-X19weWNhY2hlX18vCioucHljCi5lbnYKY3JlZGVudGlhbHMuanNvbgp0b2tlbi5qc29uCiouanNvbgoudG1wLwo=
+__pycache__/
+*.pyc
+.env
+credentials.json
+token.json
+*.json
+.tmp/
